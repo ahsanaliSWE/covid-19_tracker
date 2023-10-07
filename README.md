@@ -31,7 +31,7 @@ The COVID-19 Tracker App is designed to provide real-time information on the glo
 ![Screenshot_20231007_135742](https://github.com/ahsanaliSWE/covid-19_tracker/assets/93969884/5fc5bd2e-4eaa-41b4-940d-49164814b0d3)
 
 
-To use app make sure all the packages are added in the project and files paths are corrected.
+# To use app make sure all the packages are added in the project and files paths are corrected.
 
 
 
